@@ -1,0 +1,15 @@
+{
+  "name": "facegif",
+  "version": "0.0.1337",
+  "description": "tool that generates a gif url",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Pierre Reimertz",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.33.0",
+    "express": "~3.4.8"
+  }
+}
